@@ -566,4 +566,4 @@ $config['proxy_ips'] = '';
   | By default is redlabel.
   |
  */
-$config['template'] = 'clothesshop';
+$config['template'] = 'redlabel';
