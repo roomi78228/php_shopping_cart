@@ -24,7 +24,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   | a PHP script and you can easily do that on your own.
   |
  */
-$config['base_url'] = 'http://phpshopping.agtestserver.com';
+ 
+ $config['base_url'] = 'http://localhost/php_shopping_cart';
+//$config['base_url'] = 'http://phpshopping.agtestserver.com';
 
 /*
   |--------------------------------------------------------------------------
